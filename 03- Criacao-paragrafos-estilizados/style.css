@@ -1,0 +1,20 @@
+body {
+   width: 400px;
+   height: 300px;
+}
+.Titulo{
+    margin: 40px;
+    padding: 20px;
+
+}
+.PrimeiroParagrafo{
+    background-color: #f5f5f5;
+    margin: 40px;
+    padding: 20px;
+    
+}
+.SegundoParagrafo{
+    background-color: #f0cce2;
+    margin: 40px;
+    padding: 20px;
+}
